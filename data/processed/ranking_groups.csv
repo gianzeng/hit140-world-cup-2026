@@ -1,0 +1,49 @@
+team,world_rank,entrant_rank,ranking_group
+Argentina,1,1,Higher
+Spain,2,2,Higher
+France,3,3,Higher
+England,4,4,Higher
+Portugal,5,5,Higher
+Brazil,6,6,Higher
+Morocco,7,7,Higher
+Netherlands,8,8,Higher
+Belgium,9,9,Higher
+Germany,10,10,Higher
+Croatia,11,11,Higher
+Colombia,13,12,Higher
+Mexico,14,13,Higher
+Senegal,15,14,Higher
+Uruguay,16,15,Higher
+USA,17,16,Higher
+Japan,18,17,Higher
+Switzerland,19,18,Higher
+IR Iran,20,19,Higher
+Türkiye,22,20,Higher
+Ecuador,23,21,Higher
+Austria,24,22,Higher
+Korea Republic,25,23,Higher
+Australia,27,24,Higher
+Algeria,28,25,Lower
+Egypt,29,26,Lower
+Canada,30,27,Lower
+Norway,31,28,Lower
+Côte d'Ivoire,33,29,Lower
+Panama,34,30,Lower
+Sweden,38,31,Lower
+Czechia,40,32,Lower
+Paraguay,41,33,Lower
+Scotland,42,34,Lower
+Tunisia,45,35,Lower
+Congo DR,46,36,Lower
+Uzbekistan,50,37,Lower
+Qatar,56,38,Lower
+Iraq,57,39,Lower
+South Africa,60,40,Lower
+Saudi Arabia,61,41,Lower
+Jordan,63,42,Lower
+Bosnia and Herzegovina,64,43,Lower
+Cabo Verde,67,44,Lower
+Ghana,73,45,Lower
+Curaçao,82,46,Lower
+Haiti,83,47,Lower
+New Zealand,85,48,Lower

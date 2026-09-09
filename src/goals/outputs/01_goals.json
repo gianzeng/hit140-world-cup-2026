@@ -1,0 +1,52 @@
+{
+  "task": "01_goals",
+  "owner": "Yi Xie",
+  "metric": "goals_per_match",
+  "labels": [
+    "Higher",
+    "Lower"
+  ],
+  "descriptive": [
+    {
+      "group": "Higher",
+      "N": 24,
+      "n": 20,
+      "mean": 1.7912500000000002,
+      "sd": 0.715203908068852,
+      "median": 2.0,
+      "min": 0.5,
+      "max": 2.75,
+      "ci_low": 1.4565242674959569,
+      "ci_high": 2.1259757325040436,
+      "finite_ci_low": 1.6545987919309604,
+      "finite_ci_high": 1.92790120806904,
+      "census_mean": 1.7295138888888892
+    },
+    {
+      "group": "Lower",
+      "N": 24,
+      "n": 20,
+      "mean": 0.9791666666666667,
+      "sd": 0.5430279789890317,
+      "median": 0.8333333333333333,
+      "min": 0.3333333333333333,
+      "max": 2.1666666666666665,
+      "ci_low": 0.7250217494107121,
+      "ci_high": 1.2333115839226214,
+      "finite_ci_low": 0.8754124386668434,
+      "finite_ci_high": 1.08292089466649,
+      "census_mean": 0.9131944444444443
+    }
+  ],
+  "difference": 0.8120833333333335,
+  "t": 4.044281794994491,
+  "df": 35.4420704326464,
+  "p": 0.0002702093063366498,
+  "difference_ci": [
+    0.4046235829805911,
+    1.219543083686076
+  ],
+  "reject_at_005": true,
+  "seed": 1402026,
+  "inference_note": "Welch and ordinary t intervals are approximate model-based inference. Finite-population group intervals use FPC; no population sampling uncertainty remains for census means. Shared fixtures and tournament selection limit generalisation."
+}

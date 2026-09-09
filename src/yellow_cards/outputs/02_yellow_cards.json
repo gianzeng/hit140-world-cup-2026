@@ -1,0 +1,52 @@
+{
+  "task": "02_yellow_cards",
+  "owner": "Jiean Zeng",
+  "metric": "yellow_per_group_match",
+  "labels": [
+    "Qualified",
+    "Eliminated"
+  ],
+  "descriptive": [
+    {
+      "group": "Qualified",
+      "N": 32,
+      "n": 24,
+      "mean": 1.1805555555555556,
+      "sd": 0.5199327963510448,
+      "median": 1.3333333333333333,
+      "min": 0.3333333333333333,
+      "max": 2.0,
+      "ci_low": 0.9610071905854787,
+      "ci_high": 1.4001039205256325,
+      "finite_ci_low": 1.0707813730705171,
+      "finite_ci_high": 1.290329738040594,
+      "census_mean": 1.1354166666666667
+    },
+    {
+      "group": "Eliminated",
+      "N": 16,
+      "n": 12,
+      "mean": 1.5833333333333333,
+      "sd": 0.5527707983925667,
+      "median": 1.5,
+      "min": 0.3333333333333333,
+      "max": 2.3333333333333335,
+      "ci_low": 1.2321195239945268,
+      "ci_high": 1.9345471426721397,
+      "finite_ci_low": 1.40772642866393,
+      "finite_ci_high": 1.7589402380027366,
+      "census_mean": 1.4375
+    }
+  ],
+  "difference": -0.4027777777777777,
+  "t": -2.101717997983163,
+  "df": 20.925984015032707,
+  "p": 0.04786675191943286,
+  "difference_ci": [
+    -0.8014053190781142,
+    -0.0041502364774411715
+  ],
+  "reject_at_005": true,
+  "seed": 1402026,
+  "inference_note": "Welch and ordinary t intervals are approximate model-based inference. Finite-population group intervals use FPC; no population sampling uncertainty remains for census means. Shared fixtures and tournament selection limit generalisation."
+}

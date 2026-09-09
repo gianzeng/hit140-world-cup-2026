@@ -1,0 +1,43 @@
+{
+  "name": "regression_team_match",
+  "target": "goals",
+  "features": [
+    "shots",
+    "yellow",
+    "corners",
+    "world_rank",
+    "opponent_rank"
+  ],
+  "train_rows": 156,
+  "test_rows": 52,
+  "train_matches": 78,
+  "test_matches": 26,
+  "model": {
+    "MAE": 0.7789299554868939,
+    "RMSE": 1.0965106489133216,
+    "R2": 0.3679791075039718
+  },
+  "baseline": {
+    "MAE": 1.111439842209073,
+    "RMSE": 1.3795014773827716,
+    "R2": -0.0003456022118544233
+  },
+  "training_5fold_group_MAE": [
+    0.8888989343286428,
+    1.2064420560552334,
+    0.807575451491481,
+    0.8108321504707692,
+    1.0235387273723289
+  ],
+  "training_5fold_group_MAE_mean": 0.9474574639436909,
+  "coefficients_per_training_SD": {
+    "shots": 0.32492374695645965,
+    "yellow": -0.2665973915897138,
+    "corners": -0.26451103794555614,
+    "world_rank": -0.36896671270064785,
+    "opponent_rank": 0.30122735562977276
+  },
+  "intercept": 1.4871794871794872,
+  "negative_predictions": 1,
+  "limitation": "Same-match associations. Match-disjoint split prevents opponent rows crossing folds; teams recur across folds. Generalisation to unseen teams/tournaments is untested. Count outcome may yield negative linear predictions."
+}

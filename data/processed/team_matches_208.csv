@@ -1,0 +1,209 @@
+match_id,date,stage,source,team,opponent,goals_against,goals,yellow,red,corners,xg,shots,sot,fouls,world_rank,entrant_rank,ranking_group,opponent_rank,qualification
+WC26_001,2026-06-11,GROUP STAGE,TSDL,Mexico,South Africa,0,2,1,1,3,1.46,16,4,12,14,13,Higher,60,Qualified
+WC26_001,2026-06-11,GROUP STAGE,TSDL,South Africa,Mexico,2,0,2,2,1,0.07,3,2,11,60,40,Lower,14,Qualified
+WC26_002,2026-06-12,GROUP STAGE,TSDL,Canada,Bosnia and Herzegovina,1,1,2,0,9,1.25,13,4,10,30,27,Lower,64,Qualified
+WC26_002,2026-06-12,GROUP STAGE,TSDL,Bosnia and Herzegovina,Canada,1,1,3,0,4,0.98,8,3,20,64,43,Lower,30,Qualified
+WC26_003,2026-06-12,GROUP STAGE,TSDL,Korea Republic,Czechia,1,2,1,0,4,2.3,15,6,9,25,23,Higher,40,Eliminated
+WC26_003,2026-06-12,GROUP STAGE,TSDL,Czechia,Korea Republic,2,1,0,0,5,0.83,7,4,16,40,32,Lower,25,Eliminated
+WC26_004,2026-06-13,GROUP STAGE,TSDL,Brazil,Morocco,1,1,2,0,6,1.26,12,5,16,6,6,Higher,7,Qualified
+WC26_004,2026-06-13,GROUP STAGE,TSDL,Morocco,Brazil,1,1,0,0,2,1.37,14,3,14,7,7,Higher,6,Qualified
+WC26_005,2026-06-13,GROUP STAGE,TSDL,Qatar,Switzerland,1,1,2,0,3,0.6,6,3,12,56,38,Lower,19,Eliminated
+WC26_005,2026-06-13,GROUP STAGE,TSDL,Switzerland,Qatar,1,1,1,0,10,3.2,26,7,11,19,18,Higher,56,Qualified
+WC26_006,2026-06-13,GROUP STAGE,TSDL,USA,Paraguay,1,4,1,0,3,1.42,16,6,13,17,16,Higher,41,Qualified
+WC26_006,2026-06-13,GROUP STAGE,TSDL,Paraguay,USA,4,1,5,0,1,0.54,9,1,17,41,33,Lower,17,Qualified
+WC26_007,2026-06-14,GROUP STAGE,TSDL,Australia,Türkiye,0,2,0,0,5,1.18,9,4,12,27,24,Higher,22,Qualified
+WC26_007,2026-06-14,GROUP STAGE,TSDL,Türkiye,Australia,2,0,1,0,8,1.36,30,8,4,22,20,Higher,27,Eliminated
+WC26_008,2026-06-14,GROUP STAGE,TSDL,Germany,Curaçao,1,7,0,0,8,4.22,26,12,18,10,10,Higher,82,Qualified
+WC26_008,2026-06-14,GROUP STAGE,TSDL,Curaçao,Germany,7,1,0,0,1,0.41,8,2,11,82,46,Lower,10,Eliminated
+WC26_009,2026-06-14,GROUP STAGE,TSDL,Haiti,Scotland,1,0,1,0,4,1.05,15,2,23,83,47,Lower,42,Eliminated
+WC26_009,2026-06-14,GROUP STAGE,TSDL,Scotland,Haiti,0,1,3,0,3,1.05,9,2,21,42,34,Lower,83,Eliminated
+WC26_010,2026-06-14,GROUP STAGE,TSDL,Netherlands,Japan,2,2,3,0,5,0.78,10,6,7,8,8,Higher,18,Qualified
+WC26_010,2026-06-14,GROUP STAGE,TSDL,Japan,Netherlands,2,2,0,0,4,0.59,10,3,7,18,17,Higher,8,Qualified
+WC26_011,2026-06-15,GROUP STAGE,TSDL,Belgium,Egypt,1,1,2,0,2,1.35,15,3,15,9,9,Higher,29,Qualified
+WC26_011,2026-06-15,GROUP STAGE,TSDL,Egypt,Belgium,1,1,2,0,7,1.08,14,3,15,29,26,Lower,9,Qualified
+WC26_012,2026-06-15,GROUP STAGE,TSDL,Côte d'Ivoire,Ecuador,0,1,3,0,3,1.52,15,4,10,33,29,Lower,23,Qualified
+WC26_012,2026-06-15,GROUP STAGE,TSDL,Ecuador,Côte d'Ivoire,1,0,1,0,5,1.01,12,1,13,23,21,Higher,33,Qualified
+WC26_013,2026-06-15,GROUP STAGE,TSDL,Saudi Arabia,Uruguay,1,1,1,0,4,0.66,7,3,11,61,41,Lower,16,Eliminated
+WC26_013,2026-06-15,GROUP STAGE,TSDL,Uruguay,Saudi Arabia,1,1,0,0,14,1.72,27,10,6,16,15,Higher,61,Eliminated
+WC26_014,2026-06-15,GROUP STAGE,TSDL,Spain,Cabo Verde,0,0,1,0,11,2.1,27,7,10,2,2,Higher,67,Qualified
+WC26_014,2026-06-15,GROUP STAGE,TSDL,Cabo Verde,Spain,0,0,1,0,1,0.2,6,1,1,67,44,Lower,2,Qualified
+WC26_015,2026-06-15,GROUP STAGE,TSDL,Sweden,Tunisia,1,5,0,0,4,1.33,13,7,10,38,31,Lower,45,Qualified
+WC26_015,2026-06-15,GROUP STAGE,TSDL,Tunisia,Sweden,5,1,1,0,2,0.28,6,2,8,45,35,Lower,38,Eliminated
+WC26_016,2026-06-16,GROUP STAGE,TSDL,France,Senegal,1,3,0,0,6,1.79,11,8,5,3,3,Higher,15,Qualified
+WC26_016,2026-06-16,GROUP STAGE,TSDL,Senegal,France,3,1,0,0,4,0.53,6,2,9,15,14,Higher,3,Qualified
+WC26_017,2026-06-16,GROUP STAGE,TSDL,IR Iran,New Zealand,2,2,1,0,4,1.5,17,4,10,20,19,Higher,85,Eliminated
+WC26_017,2026-06-16,GROUP STAGE,TSDL,New Zealand,IR Iran,2,2,0,0,1,1.24,14,8,8,85,48,Lower,20,Eliminated
+WC26_018,2026-06-16,GROUP STAGE,TSDL,Iraq,Norway,4,1,1,0,2,0.8,11,1,12,57,39,Lower,31,Eliminated
+WC26_018,2026-06-16,GROUP STAGE,TSDL,Norway,Iraq,1,4,0,0,5,2.52,12,5,13,31,28,Lower,57,Qualified
+WC26_019,2026-06-17,GROUP STAGE,TSDL,Argentina,Algeria,0,3,0,0,2,1.26,10,6,13,1,1,Higher,28,Qualified
+WC26_019,2026-06-17,GROUP STAGE,TSDL,Algeria,Argentina,3,0,0,0,2,0.32,7,0,8,28,25,Lower,1,Qualified
+WC26_020,2026-06-17,GROUP STAGE,TSDL,Austria,Jordan,1,3,1,0,4,1.66,11,4,12,24,22,Higher,63,Qualified
+WC26_020,2026-06-17,GROUP STAGE,TSDL,Jordan,Austria,3,1,0,0,3,0.53,11,4,7,63,42,Lower,24,Eliminated
+WC26_021,2026-06-17,GROUP STAGE,TSDL,England,Croatia,2,4,0,0,8,3.2,22,11,10,4,4,Higher,11,Qualified
+WC26_021,2026-06-17,GROUP STAGE,TSDL,Croatia,England,4,2,0,0,2,0.7,10,5,12,11,11,Higher,4,Qualified
+WC26_022,2026-06-17,GROUP STAGE,TSDL,Portugal,Congo DR,1,1,3,0,5,0.65,7,1,9,5,5,Higher,46,Qualified
+WC26_022,2026-06-17,GROUP STAGE,TSDL,Congo DR,Portugal,1,1,1,0,4,0.87,8,2,10,46,36,Lower,5,Qualified
+WC26_023,2026-06-18,GROUP STAGE,TSDL,Canada,Qatar,0,6,1,0,19,4.6,32,10,9,30,27,Lower,56,Qualified
+WC26_023,2026-06-18,GROUP STAGE,TSDL,Qatar,Canada,6,0,1,2,1,0.22,2,0,10,56,38,Lower,30,Eliminated
+WC26_024,2026-06-18,GROUP STAGE,TSDL,Czechia,South Africa,1,1,1,0,5,1.02,14,3,12,40,32,Lower,60,Eliminated
+WC26_024,2026-06-18,GROUP STAGE,TSDL,South Africa,Czechia,1,1,2,0,5,1.38,17,4,10,60,40,Lower,40,Qualified
+WC26_025,2026-06-18,GROUP STAGE,TSDL,Ghana,Panama,0,1,1,0,2,1.31,8,2,9,73,45,Lower,34,Qualified
+WC26_025,2026-06-18,GROUP STAGE,TSDL,Panama,Ghana,1,0,2,0,2,0.73,11,4,11,34,30,Lower,73,Eliminated
+WC26_026,2026-06-18,GROUP STAGE,TSDL,Switzerland,Bosnia and Herzegovina,1,4,1,0,7,2.06,13,7,7,19,18,Higher,64,Qualified
+WC26_026,2026-06-18,GROUP STAGE,TSDL,Bosnia and Herzegovina,Switzerland,4,1,2,1,3,0.23,5,3,18,64,43,Lower,19,Qualified
+WC26_027,2026-06-18,GROUP STAGE,TSDL,Uzbekistan,Colombia,3,1,1,0,3,1.16,8,2,14,50,37,Lower,13,Eliminated
+WC26_027,2026-06-18,GROUP STAGE,TSDL,Colombia,Uzbekistan,1,3,1,0,4,1.61,15,4,11,13,12,Higher,50,Qualified
+WC26_028,2026-06-19,GROUP STAGE,TSDL,Mexico,Korea Republic,0,1,0,0,0,0.53,8,4,9,14,13,Higher,25,Qualified
+WC26_028,2026-06-19,GROUP STAGE,TSDL,Korea Republic,Mexico,1,0,2,0,2,0.91,9,2,7,25,23,Higher,14,Eliminated
+WC26_029,2026-06-19,GROUP STAGE,TSDL,Scotland,Morocco,1,0,1,0,2,0.51,6,0,11,42,34,Lower,7,Eliminated
+WC26_029,2026-06-19,GROUP STAGE,TSDL,Morocco,Scotland,0,1,1,0,5,0.99,12,2,8,7,7,Higher,42,Qualified
+WC26_030,2026-06-19,GROUP STAGE,TSDL,USA,Australia,0,2,3,0,7,1.08,10,2,12,17,16,Higher,27,Qualified
+WC26_030,2026-06-19,GROUP STAGE,TSDL,Australia,USA,2,0,4,0,4,0.35,5,2,16,27,24,Higher,17,Qualified
+WC26_031,2026-06-20,GROUP STAGE,TSDL,Brazil,Haiti,0,3,1,0,4,1.75,8,5,13,6,6,Higher,83,Qualified
+WC26_031,2026-06-20,GROUP STAGE,TSDL,Haiti,Brazil,3,0,3,0,4,0.23,7,3,14,83,47,Lower,6,Eliminated
+WC26_032,2026-06-20,GROUP STAGE,TSDL,Germany,Côte d'Ivoire,1,2,0,0,8,1.89,16,7,5,10,10,Higher,33,Qualified
+WC26_032,2026-06-20,GROUP STAGE,TSDL,Côte d'Ivoire,Germany,2,1,0,0,3,1.22,9,2,7,33,29,Lower,10,Qualified
+WC26_033,2026-06-20,GROUP STAGE,TSDL,Netherlands,Sweden,1,5,0,0,2,2.61,10,7,9,8,8,Higher,38,Qualified
+WC26_033,2026-06-20,GROUP STAGE,TSDL,Sweden,Netherlands,5,1,3,0,5,1.01,16,8,12,38,31,Lower,8,Qualified
+WC26_034,2026-06-20,GROUP STAGE,TSDL,Türkiye,Paraguay,1,0,1,0,12,2.17,32,5,14,22,20,Higher,41,Eliminated
+WC26_034,2026-06-20,GROUP STAGE,TSDL,Paraguay,Türkiye,0,1,1,1,0,0.32,7,2,15,41,33,Lower,22,Qualified
+WC26_035,2026-06-21,GROUP STAGE,TSDL,Belgium,IR Iran,0,0,1,1,4,1.79,23,7,7,9,9,Higher,20,Qualified
+WC26_035,2026-06-21,GROUP STAGE,TSDL,IR Iran,Belgium,0,0,1,0,2,0.62,7,3,9,20,19,Higher,9,Eliminated
+WC26_036,2026-06-21,GROUP STAGE,TSDL,Ecuador,Curaçao,0,0,1,0,9,2.84,27,15,7,23,21,Higher,82,Qualified
+WC26_036,2026-06-21,GROUP STAGE,TSDL,Curaçao,Ecuador,0,0,5,0,0,0.5,10,3,10,82,46,Lower,23,Eliminated
+WC26_037,2026-06-21,GROUP STAGE,TSDL,Spain,Saudi Arabia,0,4,0,0,6,2.3,22,8,10,2,2,Higher,61,Qualified
+WC26_037,2026-06-21,GROUP STAGE,TSDL,Saudi Arabia,Spain,4,0,2,0,1,0.14,3,1,2,61,41,Lower,2,Eliminated
+WC26_038,2026-06-21,GROUP STAGE,TSDL,Tunisia,Japan,4,0,0,0,3,0.05,2,0,8,45,35,Lower,18,Eliminated
+WC26_038,2026-06-21,GROUP STAGE,TSDL,Japan,Tunisia,0,4,0,0,5,2.13,11,5,15,18,17,Higher,45,Qualified
+WC26_039,2026-06-21,GROUP STAGE,TSDL,Uruguay,Cabo Verde,2,2,2,0,11,2.32,17,2,11,16,15,Higher,67,Eliminated
+WC26_039,2026-06-21,GROUP STAGE,TSDL,Cabo Verde,Uruguay,2,2,2,0,4,0.88,12,4,4,67,44,Lower,16,Qualified
+WC26_040,2026-06-22,GROUP STAGE,TSDL,Argentina,Austria,0,2,2,0,1,2.36,12,5,13,1,1,Higher,24,Qualified
+WC26_040,2026-06-22,GROUP STAGE,TSDL,Austria,Argentina,2,0,2,0,3,0.53,6,1,13,24,22,Higher,1,Qualified
+WC26_041,2026-06-22,GROUP STAGE,TSDL,France,Iraq,0,3,0,0,4,2.67,19,5,8,3,3,Higher,57,Qualified
+WC26_041,2026-06-22,GROUP STAGE,TSDL,Iraq,France,3,0,1,0,2,0.63,4,0,4,57,39,Lower,3,Eliminated
+WC26_042,2026-06-22,GROUP STAGE,TSDL,New Zealand,Egypt,3,1,2,0,4,1.24,11,5,14,85,48,Lower,29,Eliminated
+WC26_042,2026-06-22,GROUP STAGE,TSDL,Egypt,New Zealand,1,3,1,0,3,1.87,19,7,8,29,26,Lower,85,Qualified
+WC26_043,2026-06-23,GROUP STAGE,TSDL,England,Ghana,0,0,1,0,9,1.36,19,3,14,4,4,Higher,73,Qualified
+WC26_043,2026-06-23,GROUP STAGE,TSDL,Ghana,England,0,0,1,0,2,0.17,2,1,24,73,45,Lower,4,Qualified
+WC26_044,2026-06-23,GROUP STAGE,TSDL,Jordan,Algeria,2,1,1,0,1,0.63,8,4,11,63,42,Lower,28,Eliminated
+WC26_044,2026-06-23,GROUP STAGE,TSDL,Algeria,Jordan,1,2,1,0,10,1.89,17,8,6,28,25,Lower,63,Qualified
+WC26_045,2026-06-23,GROUP STAGE,TSDL,Norway,Senegal,2,3,0,0,5,2.2,13,7,13,31,28,Lower,15,Qualified
+WC26_045,2026-06-23,GROUP STAGE,TSDL,Senegal,Norway,3,2,0,0,4,1.72,16,4,5,15,14,Higher,31,Qualified
+WC26_046,2026-06-23,GROUP STAGE,TSDL,Portugal,Uzbekistan,0,5,1,0,3,2.61,17,9,14,5,5,Higher,50,Qualified
+WC26_046,2026-06-23,GROUP STAGE,TSDL,Uzbekistan,Portugal,5,0,1,0,2,0.24,7,2,15,50,37,Lower,5,Eliminated
+WC26_047,2026-06-24,GROUP STAGE,TSDL,Bosnia and Herzegovina,Qatar,1,3,1,0,5,0.68,14,5,9,64,43,Lower,56,Qualified
+WC26_047,2026-06-24,GROUP STAGE,TSDL,Qatar,Bosnia and Herzegovina,3,1,1,0,5,0.77,9,3,14,56,38,Lower,64,Eliminated
+WC26_048,2026-06-24,GROUP STAGE,TSDL,Colombia,Congo DR,0,1,2,0,5,0.98,20,9,12,13,12,Higher,46,Qualified
+WC26_048,2026-06-24,GROUP STAGE,TSDL,Congo DR,Colombia,1,0,1,0,4,0.37,7,1,16,46,36,Lower,13,Qualified
+WC26_049,2026-06-24,GROUP STAGE,TSDL,Morocco,Haiti,2,4,0,0,9,3.76,22,11,10,7,7,Higher,83,Qualified
+WC26_049,2026-06-24,GROUP STAGE,TSDL,Haiti,Morocco,4,2,3,0,1,0.67,9,2,18,83,47,Lower,7,Eliminated
+WC26_050,2026-06-24,GROUP STAGE,TSDL,Panama,Croatia,1,0,1,0,7,0.55,8,1,19,34,30,Lower,11,Eliminated
+WC26_050,2026-06-24,GROUP STAGE,TSDL,Croatia,Panama,0,1,1,0,2,1.65,6,2,12,11,11,Higher,34,Qualified
+WC26_051,2026-06-24,GROUP STAGE,TSDL,Scotland,Brazil,3,0,1,0,7,1.04,14,5,10,42,34,Lower,6,Eliminated
+WC26_051,2026-06-24,GROUP STAGE,TSDL,Brazil,Scotland,0,3,2,0,6,4.33,21,9,11,6,6,Higher,42,Qualified
+WC26_052,2026-06-24,GROUP STAGE,TSDL,Switzerland,Canada,1,2,1,0,2,1.11,6,4,19,19,18,Higher,30,Qualified
+WC26_052,2026-06-24,GROUP STAGE,TSDL,Canada,Switzerland,2,1,2,0,7,1.66,13,7,13,30,27,Lower,19,Qualified
+WC26_053,2026-06-25,GROUP STAGE,TSDL,Curaçao,Côte d'Ivoire,2,0,2,0,4,0.5,11,2,11,82,46,Lower,33,Eliminated
+WC26_053,2026-06-25,GROUP STAGE,TSDL,Côte d'Ivoire,Curaçao,0,2,1,0,6,1.31,7,3,6,33,29,Lower,82,Qualified
+WC26_054,2026-06-25,GROUP STAGE,TSDL,Czechia,Mexico,3,0,0,0,5,0.53,13,1,9,40,32,Lower,14,Eliminated
+WC26_054,2026-06-25,GROUP STAGE,TSDL,Mexico,Czechia,0,3,1,0,1,1.74,11,5,13,14,13,Higher,40,Qualified
+WC26_055,2026-06-25,GROUP STAGE,TSDL,Ecuador,Germany,1,2,3,0,3,1.27,7,3,15,23,21,Higher,10,Qualified
+WC26_055,2026-06-25,GROUP STAGE,TSDL,Germany,Ecuador,2,1,1,0,2,0.65,11,3,10,10,10,Higher,23,Qualified
+WC26_056,2026-06-25,GROUP STAGE,TSDL,South Africa,Korea Republic,0,1,1,0,4,1.16,13,4,7,60,40,Lower,25,Qualified
+WC26_056,2026-06-25,GROUP STAGE,TSDL,Korea Republic,South Africa,1,0,1,0,6,0.9,8,3,9,25,23,Higher,60,Eliminated
+WC26_057,2026-06-26,GROUP STAGE,TSDL,Japan,Sweden,1,1,1,0,2,1.21,8,3,20,18,17,Higher,38,Qualified
+WC26_057,2026-06-26,GROUP STAGE,TSDL,Sweden,Japan,1,1,2,0,8,0.64,11,5,11,38,31,Lower,18,Qualified
+WC26_058,2026-06-26,GROUP STAGE,TSDL,Norway,France,4,1,1,0,4,1.7,10,4,9,31,28,Lower,3,Qualified
+WC26_058,2026-06-26,GROUP STAGE,TSDL,France,Norway,1,4,1,0,5,1.5,18,9,11,3,3,Higher,31,Qualified
+WC26_059,2026-06-26,GROUP STAGE,TSDL,Paraguay,Australia,0,0,1,0,1,0.24,7,2,9,41,33,Lower,27,Qualified
+WC26_059,2026-06-26,GROUP STAGE,TSDL,Australia,Paraguay,0,0,1,0,3,0.55,12,5,6,27,24,Higher,41,Qualified
+WC26_060,2026-06-26,GROUP STAGE,TSDL,Senegal,Iraq,0,5,2,0,12,3.01,28,12,10,15,14,Higher,57,Qualified
+WC26_060,2026-06-26,GROUP STAGE,TSDL,Iraq,Senegal,5,0,2,1,3,1.04,6,1,11,57,39,Lower,15,Eliminated
+WC26_061,2026-06-26,GROUP STAGE,TSDL,Tunisia,Netherlands,3,1,0,0,4,0.62,10,4,11,45,35,Lower,8,Eliminated
+WC26_061,2026-06-26,GROUP STAGE,TSDL,Netherlands,Tunisia,1,3,0,0,6,1.85,20,7,10,8,8,Higher,45,Qualified
+WC26_062,2026-06-26,GROUP STAGE,TSDL,Türkiye,USA,2,3,0,0,2,3.01,9,3,13,22,20,Higher,17,Eliminated
+WC26_062,2026-06-26,GROUP STAGE,TSDL,USA,Türkiye,3,2,1,0,9,2.13,18,7,13,17,16,Higher,22,Qualified
+WC26_063,2026-06-27,GROUP STAGE,TSDL,Cabo Verde,Saudi Arabia,0,0,1,0,4,1.39,15,2,10,67,44,Lower,61,Qualified
+WC26_063,2026-06-27,GROUP STAGE,TSDL,Saudi Arabia,Cabo Verde,0,0,3,0,2,0.39,7,3,16,61,41,Lower,67,Eliminated
+WC26_064,2026-06-27,GROUP STAGE,TSDL,Croatia,Ghana,1,2,1,0,3,0.42,8,4,9,11,11,Higher,73,Qualified
+WC26_064,2026-06-27,GROUP STAGE,TSDL,Ghana,Croatia,2,1,1,0,2,0.74,6,1,13,73,45,Lower,11,Qualified
+WC26_065,2026-06-27,GROUP STAGE,TSDL,Egypt,IR Iran,1,1,3,0,8,0.84,15,3,11,29,26,Lower,20,Qualified
+WC26_065,2026-06-27,GROUP STAGE,TSDL,IR Iran,Egypt,1,1,4,0,2,1.97,13,4,16,20,19,Higher,29,Eliminated
+WC26_066,2026-06-27,GROUP STAGE,TSDL,New Zealand,Belgium,5,1,2,0,5,0.25,6,2,10,85,48,Lower,9,Eliminated
+WC26_066,2026-06-27,GROUP STAGE,TSDL,Belgium,New Zealand,1,5,0,0,8,3.69,35,10,7,9,9,Higher,85,Qualified
+WC26_067,2026-06-27,GROUP STAGE,TSDL,Panama,England,2,0,2,0,3,0.58,13,2,16,34,30,Lower,4,Eliminated
+WC26_067,2026-06-27,GROUP STAGE,TSDL,England,Panama,0,2,1,0,7,1.49,17,6,13,4,4,Higher,34,Qualified
+WC26_068,2026-06-27,GROUP STAGE,TSDL,Uruguay,Spain,1,0,3,1,1,0.2,5,1,14,16,15,Higher,2,Eliminated
+WC26_068,2026-06-27,GROUP STAGE,TSDL,Spain,Uruguay,0,1,1,0,6,0.86,6,1,14,2,2,Higher,16,Qualified
+WC26_069,2026-06-28,GROUP STAGE,TSDL,Algeria,Austria,3,3,0,0,0,1.67,12,5,3,28,25,Lower,24,Qualified
+WC26_069,2026-06-28,GROUP STAGE,TSDL,Austria,Algeria,3,3,1,0,3,1.49,10,3,7,24,22,Higher,28,Qualified
+WC26_070,2026-06-28,GROUP STAGE,TSDL,Colombia,Portugal,0,0,1,0,5,1.7,24,6,12,13,12,Higher,5,Qualified
+WC26_070,2026-06-28,GROUP STAGE,TSDL,Portugal,Colombia,0,0,0,0,2,0.93,13,2,6,5,5,Higher,13,Qualified
+WC26_071,2026-06-28,GROUP STAGE,TSDL,Congo DR,Uzbekistan,1,3,3,0,2,2.18,19,4,6,46,36,Lower,50,Qualified
+WC26_071,2026-06-28,GROUP STAGE,TSDL,Uzbekistan,Congo DR,3,1,2,0,4,0.2,3,1,16,50,37,Lower,46,Eliminated
+WC26_072,2026-06-28,GROUP STAGE,TSDL,Jordan,Argentina,3,1,3,0,2,0.76,5,1,13,63,42,Lower,1,Eliminated
+WC26_072,2026-06-28,GROUP STAGE,TSDL,Argentina,Jordan,1,3,0,0,6,2.13,12,4,7,1,1,Higher,63,Qualified
+WC26_073,2026-06-28,ROUND OF 32,TSDL,South Africa,Canada,1,0,0,0,1,0.14,6,1,10,60,40,Lower,30,Qualified
+WC26_073,2026-06-28,ROUND OF 32,TSDL,Canada,South Africa,0,1,2,0,4,1.38,12,7,16,30,27,Lower,60,Qualified
+WC26_074,2026-06-29,ROUND OF 32,TSDL,Brazil,Japan,1,2,2,0,6,2.07,19,7,4,6,6,Higher,18,Qualified
+WC26_074,2026-06-29,ROUND OF 32,TSDL,Japan,Brazil,2,1,3,0,2,0.33,5,2,13,18,17,Higher,6,Qualified
+WC26_075,2026-06-29,ROUND OF 32,TSDL,Germany,Paraguay,1,1,2,0,16,1.57,21,6,18,10,10,Higher,41,Qualified
+WC26_075,2026-06-29,ROUND OF 32,TSDL,Paraguay,Germany,1,1,2,0,6,0.35,7,3,12,41,33,Lower,10,Qualified
+WC26_076,2026-06-29,ROUND OF 32,TSDL,Netherlands,Morocco,1,1,0,0,5,0.24,6,2,18,8,8,Higher,7,Qualified
+WC26_076,2026-06-29,ROUND OF 32,TSDL,Morocco,Netherlands,1,1,1,0,8,1.38,11,5,15,7,7,Higher,8,Qualified
+WC26_077,2026-06-30,ROUND OF 32,TSDL,Côte d'Ivoire,Norway,2,1,0,0,14,1.49,14,5,6,33,29,Lower,31,Qualified
+WC26_077,2026-06-30,ROUND OF 32,TSDL,Norway,Côte d'Ivoire,1,2,1,0,3,1.9,9,4,7,31,28,Lower,33,Qualified
+WC26_078,2026-06-30,ROUND OF 32,TSDL,France,Sweden,0,3,0,0,9,3.24,25,12,14,3,3,Higher,38,Qualified
+WC26_078,2026-06-30,ROUND OF 32,TSDL,Sweden,France,3,0,0,0,1,0.7,8,3,10,38,31,Lower,3,Qualified
+WC26_079,2026-06-30,ROUND OF 32,TSDL,Mexico,Ecuador,0,2,0,0,3,1.05,15,3,10,14,13,Higher,23,Qualified
+WC26_079,2026-06-30,ROUND OF 32,TSDL,Ecuador,Mexico,2,0,3,1,8,0.75,7,1,14,23,21,Higher,14,Qualified
+WC26_080,2026-07-01,ROUND OF 32,TSDL,Belgium,Senegal,2,3,1,0,4,1.74,19,5,22,9,9,Higher,15,Qualified
+WC26_080,2026-07-01,ROUND OF 32,TSDL,Senegal,Belgium,3,2,1,0,2,3.58,19,5,12,15,14,Higher,9,Qualified
+WC26_081,2026-07-01,ROUND OF 32,TSDL,England,Congo DR,1,2,1,0,5,2.16,16,7,10,4,4,Higher,46,Qualified
+WC26_081,2026-07-01,ROUND OF 32,TSDL,Congo DR,England,2,1,1,0,3,0.77,7,2,12,46,36,Lower,4,Qualified
+WC26_082,2026-07-01,ROUND OF 32,TSDL,USA,Bosnia and Herzegovina,0,2,0,1,4,0.88,8,2,7,17,16,Higher,64,Qualified
+WC26_082,2026-07-01,ROUND OF 32,TSDL,Bosnia and Herzegovina,USA,2,0,1,0,3,0.25,10,3,13,64,43,Lower,17,Qualified
+WC26_083,2026-07-02,ROUND OF 32,TSDL,Portugal,Croatia,1,2,1,0,9,2.2,15,3,6,5,5,Higher,11,Qualified
+WC26_083,2026-07-02,ROUND OF 32,TSDL,Croatia,Portugal,2,1,2,0,5,1.34,13,6,12,11,11,Higher,5,Qualified
+WC26_084,2026-07-02,ROUND OF 32,TSDL,Spain,Austria,0,3,0,0,9,2.8,23,10,8,2,2,Higher,24,Qualified
+WC26_084,2026-07-02,ROUND OF 32,TSDL,Austria,Spain,3,0,1,0,0,0.32,5,0,15,24,22,Higher,2,Qualified
+WC26_085,2026-07-02,ROUND OF 32,TSDL,Switzerland,Algeria,0,2,0,0,4,2.52,11,5,10,19,18,Higher,28,Qualified
+WC26_085,2026-07-02,ROUND OF 32,TSDL,Algeria,Switzerland,2,0,2,0,2,0.73,8,2,12,28,25,Lower,19,Qualified
+WC26_086,2026-07-03,ROUND OF 32,TSDL,Argentina,Cabo Verde,2,3,1,0,8,2.26,22,10,13,1,1,Higher,67,Qualified
+WC26_086,2026-07-03,ROUND OF 32,TSDL,Cabo Verde,Argentina,3,2,1,0,8,0.47,16,5,12,67,44,Lower,1,Qualified
+WC26_087,2026-07-03,ROUND OF 32,TSDL,Australia,Egypt,1,1,0,0,4,0.84,16,1,12,27,24,Higher,29,Qualified
+WC26_087,2026-07-03,ROUND OF 32,TSDL,Egypt,Australia,1,1,2,0,7,1.32,14,3,14,29,26,Lower,27,Qualified
+WC26_088,2026-07-03,ROUND OF 32,TSDL,Colombia,Ghana,0,1,2,0,3,2.04,20,8,14,13,12,Higher,73,Qualified
+WC26_088,2026-07-03,ROUND OF 32,TSDL,Ghana,Colombia,1,0,3,0,2,0.27,8,0,10,73,45,Lower,13,Qualified
+WC26_089,2026-07-04,ROUND OF 16,TSDL,Canada,Morocco,3,0,4,0,11,0.84,10,3,24,30,27,Lower,7,Qualified
+WC26_089,2026-07-04,ROUND OF 16,TSDL,Morocco,Canada,0,3,4,0,1,0.82,5,4,14,7,7,Higher,30,Qualified
+WC26_090,2026-07-04,ROUND OF 16,TSDL,Paraguay,France,1,0,0,0,2,0.13,5,0,13,41,33,Lower,3,Qualified
+WC26_090,2026-07-04,ROUND OF 16,TSDL,France,Paraguay,0,1,3,0,12,1.45,15,5,11,3,3,Higher,41,Qualified
+WC26_091,2026-07-05,ROUND OF 16,TSDL,Brazil,Norway,2,1,1,0,5,2.61,14,4,7,6,6,Higher,31,Qualified
+WC26_091,2026-07-05,ROUND OF 16,TSDL,Norway,Brazil,1,2,0,0,5,1.05,9,5,6,31,28,Lower,6,Qualified
+WC26_092,2026-07-05,ROUND OF 16,TSDL,Mexico,England,3,2,2,0,12,1.88,20,5,14,14,13,Higher,4,Qualified
+WC26_092,2026-07-05,ROUND OF 16,TSDL,England,Mexico,2,3,3,1,2,1.61,6,5,7,4,4,Higher,14,Qualified
+WC26_093,2026-07-06,ROUND OF 16,TSDL,Portugal,Spain,1,0,2,0,3,0.63,10,2,9,5,5,Higher,2,Qualified
+WC26_093,2026-07-06,ROUND OF 16,TSDL,Spain,Portugal,0,1,1,0,7,1.69,15,6,13,2,2,Higher,5,Qualified
+WC26_094,2026-07-06,ROUND OF 16,TSDL,USA,Belgium,4,1,2,0,3,0.63,7,2,11,17,16,Higher,9,Qualified
+WC26_094,2026-07-06,ROUND OF 16,TSDL,Belgium,USA,1,4,0,0,5,2.01,15,7,9,9,9,Higher,17,Qualified
+WC26_095,2026-07-07,ROUND OF 16,TSDL,Argentina,Egypt,2,3,0,0,6,2.84,19,7,13,1,1,Higher,29,Qualified
+WC26_095,2026-07-07,ROUND OF 16,TSDL,Egypt,Argentina,3,2,3,0,1,0.89,5,2,11,29,26,Lower,1,Qualified
+WC26_096,2026-07-07,ROUND OF 16,TSDL,Switzerland,Colombia,0,0,3,0,3,0.39,7,2,22,19,18,Higher,13,Qualified
+WC26_096,2026-07-07,ROUND OF 16,TSDL,Colombia,Switzerland,0,0,2,0,7,1.09,15,3,21,13,12,Higher,19,Qualified
+WC26_097,2026-07-09,QUARTER FINALS,TSDL,France,Morocco,0,2,0,0,5,3.69,22,8,10,3,3,Higher,7,Qualified
+WC26_097,2026-07-09,QUARTER FINALS,TSDL,Morocco,France,2,0,1,0,5,0.14,5,1,13,7,7,Higher,3,Qualified
+WC26_098,2026-07-10,QUARTER FINALS,TSDL,Spain,Belgium,1,2,2,0,5,2.1,17,8,13,2,2,Higher,9,Qualified
+WC26_098,2026-07-10,QUARTER FINALS,TSDL,Belgium,Spain,2,1,2,0,1,0.37,5,2,18,9,9,Higher,2,Qualified
+WC26_099,2026-07-11,QUARTER FINALS,TSDL,Argentina,Switzerland,1,3,3,0,8,1.94,22,7,14,1,1,Higher,19,Qualified
+WC26_099,2026-07-11,QUARTER FINALS,TSDL,Switzerland,Argentina,3,1,2,1,2,0.47,11,5,18,19,18,Higher,1,Qualified
+WC26_100,2026-07-11,QUARTER FINALS,TSDL,Norway,England,2,1,1,0,7,0.68,13,4,10,31,28,Lower,4,Qualified
+WC26_100,2026-07-11,QUARTER FINALS,TSDL,England,Norway,1,2,0,0,4,1.04,14,8,8,4,4,Higher,31,Qualified
+WC26_101,2026-07-14,SEMI FINALS,TSDL,France,Spain,2,0,2,0,7,0.3,10,3,11,3,3,Higher,2,Qualified
+WC26_101,2026-07-14,SEMI FINALS,TSDL,Spain,France,0,2,1,0,1,1.63,10,2,12,2,2,Higher,3,Qualified
+WC26_102,2026-07-15,SEMI FINALS,TSDL,England,Argentina,2,1,1,0,1,0.53,5,2,11,4,4,Higher,1,Qualified
+WC26_102,2026-07-15,SEMI FINALS,TSDL,Argentina,England,1,2,3,0,6,1.84,15,5,15,1,1,Higher,4,Qualified
+WC26_103,2026-07-18,BRONZE FINAL,FIFA,France,England,6,4,0,0,3,,19,9,14,3,3,Higher,4,Qualified
+WC26_103,2026-07-18,BRONZE FINAL,FIFA,England,France,4,6,0,0,4,,19,11,8,4,4,Higher,3,Qualified
+WC26_104,2026-07-19,FINAL,TSDL,Spain,Argentina,0,1,0,0,9,2.29,20,12,21,2,2,Higher,1,Qualified
+WC26_104,2026-07-19,FINAL,TSDL,Argentina,Spain,1,0,5,1,4,0.22,2,0,25,1,1,Higher,2,Qualified

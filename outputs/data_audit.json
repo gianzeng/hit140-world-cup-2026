@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "matches": 104,
+  "team_matches": 208,
+  "teams": 48,
+  "group_matches": 72,
+  "qualified": 32,
+  "missing_xg_matches": 1,
+  "source_issues": [],
+  "shootout_matches": 4,
+  "raw_sha256": {
+    "fifa_rankings_2026-06-11.csv": "bf6686c1171dca73daa3aa8e2b270c7dd58968675d788860efd044513e6f0c9c",
+    "fifa_bronze_match.json": "d1606e14eaece89c293ab7f208a95ab4d11620c6a587a39f38e595cc0f42b520",
+    "tsdl_matches.csv": "5b3420416acaf1cd65b8beec80eef4f06e99ead9c89135a000ed38be8609cb1b",
+    "tsdl_overview.csv": "7a2c3a719eac9d08d66974b7d3e70f00d799b1a0f6595e048c44f594eb19b169",
+    "fifa_goalkeeping.csv": "0b0f358a07df609c487ce5a3b1269cf9872340b6b89880a9043ca8a4f35c7714",
+    "tsdl_source.html": "44bf2a749fa6f4bf3410abc59330e7082db2bd29fe8e3452851f3df26eaf7d9a"
+  }
+}

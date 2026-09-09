@@ -1,0 +1,9 @@
+task,group,n,skewness,tukey_flagged_teams,retained_all_teams
+01_goals,Higher,20,-0.3245446556988271,,True
+01_goals,Lower,20,0.6572423978353764,,True
+02_yellow_cards,Eliminated,12,-0.6727939093883972,,True
+02_yellow_cards,Qualified,24,-0.19680681185169605,,True
+03_shots,Higher,20,0.4184011086471142,,True
+03_shots,Lower,20,0.2639885732479675,,True
+04_saves,Higher,20,0.17449424125324825,,True
+04_saves,Lower,20,0.7783878641879609,Curaçao,True
